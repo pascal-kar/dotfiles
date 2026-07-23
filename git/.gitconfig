@@ -1,0 +1,12 @@
+[init]
+    defaultBranch = main
+[pull]
+    rebase = false
+
+[alias]
+    st = status
+    cm = commit -m
+    p = push
+	wa = worktree add
+	wl = worktree list
+	wd = worktree remove
